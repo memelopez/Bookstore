@@ -6,7 +6,7 @@ function BookList() {
   return (
     <div>
       BookList
-      <Book />
+      <Book title="The Great Gatsby" author="F. Scott Fitzgerald" />
       <InputBook />
     </div>
   );
