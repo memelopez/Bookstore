@@ -14,6 +14,7 @@ function Book(props) {
         {author}
         &quot;
       </span>
+      <button type="button">Remove</button>
     </div>
   );
 }
